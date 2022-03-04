@@ -11,4 +11,7 @@ function SinhVien() {
     this.xepLoai = function (){
         console.log('dev b coe hàm xếp loại');
     }
+  this.tinhDiemTrungBinh = function () {
+    console.log("Tính điểm trung bình");
+  };
 }
