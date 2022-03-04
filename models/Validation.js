@@ -54,6 +54,9 @@ function Validation () {
     }
 
 }
+this.kiemTraDevB = function(){
+    console.log('123');
+}
 
 // tong = 0 ;
 
